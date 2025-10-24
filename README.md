@@ -1,4 +1,4 @@
-# Lab 10: Hangman with a Twist
+# Hangman with a Twist
 *Adapted from a “Nifty Assignment” (Stanford University)*
 
 ## Introduction
